@@ -1,2 +1,2 @@
 # canvasReduceAndRotate
-html5中图片用canvas压缩，用exif解决图片旋转问题
+html5中图片用canvas压缩(解决图片上传服务端的时候太大的问题，前端实现图片压缩)，用exif解决图片旋转问题（有些手机拍照上传的时候图片会被旋转，用exif识别图片是否被旋转，然后将其旋转回去）
