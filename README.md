@@ -1,0 +1,2 @@
+# canvasReduceAndRotate
+html5中图片用canvas压缩，用exif解决图片旋转问题
